@@ -37,4 +37,4 @@ hello_world()
 
 kod zagniezdzony w tekscie 'print("Hello, world!")'.
 
-![picture/github.png](picture/github.png)
+![github.png](github.png)
